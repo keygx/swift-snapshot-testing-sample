@@ -2,6 +2,8 @@
 
 Sample project for [SnapshotTesting](https://github.com/pointfreeco/swift-snapshot-testing).
 
+[iOSでswift-snapshot-testingを使う](https://qiita.com/keygx/items/1d851ad74002d863eadb)
+
 ## Requirements
 
 - Xcode11
